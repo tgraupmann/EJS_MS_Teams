@@ -2,6 +2,12 @@
 
 ElectronJS Wrapper for MS Teams
 
+* Note this EJS version does not work on the MS Teams site for me. Try the WebView2 version which does work.
+
+## See Also
+
+[WV2_MSTeamsBrowser](https://github.com/tgraupmann/WV2_MSTeamsBrowser) - WebView2 wrapper for MS Teams
+
 ## Resources
 
 [Electron Forge - Getting Started](https://www.electronforge.io/)
