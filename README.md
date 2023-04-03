@@ -1,6 +1,6 @@
 # EJS_MS_Teams
 
-Dedicated browser for working with the Web Chroma Editor
+ElectronJS Wrapper for MS Teams
 
 ## Resources
 
