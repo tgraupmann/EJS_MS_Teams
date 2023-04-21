@@ -28,6 +28,7 @@ Create the EJS Forge Project.
 
 ```cli
 npm init electron-app@latest EJS_MS_Teams
+CD EJS_MS_Teams
 ```
 
 Change the start url in [src/index.html](src/index.html)
